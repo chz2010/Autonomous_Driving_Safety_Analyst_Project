@@ -1,0 +1,4 @@
+case_id,score_percent,total,video_evidence,video_grounding,standards_integration,failure_classification,engineering_actions,evidence_limits,hallucination_control,missing_items,hallucination_flags,answer_path,error
+video_failure_plus_standards,95.0,95,20,15,20,15,15,5,5,"[""assumptions""]",[],evaluation/results/video_standard_answers_20260528_110341/video_failure_plus_standards__openai_video_standard.md,
+video_pedestrian_edge_case,95.0,95,20,15,20,15,15,5,5,"[""assumptions""]",[],evaluation/results/video_standard_answers_20260528_110341/video_pedestrian_edge_case__openai_video_standard.md,
+video_weather_visibility_case,95.0,95,20,15,20,15,15,5,5,"[""assumptions""]",[],evaluation/results/video_standard_answers_20260528_110341/video_weather_visibility_case__openai_video_standard.md,
